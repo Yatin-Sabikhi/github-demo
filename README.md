@@ -1,4 +1,4 @@
 # github-demo
 This is a demo repository.
 <br>
-Author - Yatin Sabikhi
+Author - Yatin
